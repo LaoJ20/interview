@@ -35,7 +35,9 @@ b.Spring三级缓存
 三级缓存：singletonFactories：单例对象工厂的cache  
 
 
-https://blog.csdn.net/u010853261/article/details/77940767
+https://blog.csdn.net/u010853261/article/details/77940767  
+![Image text]()
+
 
 
 
